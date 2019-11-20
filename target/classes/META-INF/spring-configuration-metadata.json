@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.muyan.springboot.myspringtransaction.chg.utils.MuyanDataSource",
+      "name": "spring.datasource",
+      "type": "com.muyan.springboot.myspringtransaction.chg.utils.MuyanDataSource"
+    }
+  ],
+  "properties": []
+}
